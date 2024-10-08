@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "408408533166",
+    "project_id": "sendopt-86d13",
+    "storage_bucket": "sendopt-86d13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408408533166:android:a26f3e70726f2d4f6fa53f",
+        "android_client_info": {
+          "package_name": "com.passenger_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_GJR_H_ZS0znBVhg9jAKFCgMiHJQlTWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
